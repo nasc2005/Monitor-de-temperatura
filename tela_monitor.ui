@@ -6,12 +6,12 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>630</width>
+    <width>640</width>
     <height>458</height>
    </rect>
   </property>
   <property name="windowTitle">
-   <string>MainWindow</string>
+   <string>Fazenda do seu Zé</string>
   </property>
   <property name="styleSheet">
    <string notr="true">background-color: rgb(170, 255, 255);</string>
@@ -22,7 +22,7 @@
      <rect>
       <x>20</x>
       <y>10</y>
-      <width>601</width>
+      <width>608</width>
       <height>61</height>
      </rect>
     </property>
@@ -38,7 +38,7 @@
 background-color: rgb(170, 255, 255);</string>
     </property>
     <property name="text">
-     <string>Monitoramento de Umidade do ar e Temperatura</string>
+     <string>Monitoramento de Umidade do solo e Temperatura</string>
     </property>
    </widget>
    <widget class="QLabel" name="label_2">
